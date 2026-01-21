@@ -70,4 +70,4 @@ This demonstrates practical usage of clustering results.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-performance-clustering.git
+   git clone https://github.com/lakshita56/student-performance-clustering.git
